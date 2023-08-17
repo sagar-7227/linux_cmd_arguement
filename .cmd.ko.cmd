@@ -1,0 +1,1 @@
+savedcmd_/home/sagar/Desktop/l_m_c_a/cmd.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sagar/Desktop/l_m_c_a/cmd.ko /home/sagar/Desktop/l_m_c_a/cmd.o /home/sagar/Desktop/l_m_c_a/cmd.mod.o;  true
